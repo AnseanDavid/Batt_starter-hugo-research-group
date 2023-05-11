@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the Battery Research Group
+        content: Take a look at the projects we are working on...
         align: center
         background:
           image:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Another page here ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -41,7 +41,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: Contact Us
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
