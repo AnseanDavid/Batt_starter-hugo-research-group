@@ -1,8 +1,7 @@
 ---
 title: Another Name
 role: Professor of Electrical Engineering
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include lithium-ion batteries.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
