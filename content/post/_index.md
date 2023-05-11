@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Very Latest News
 view: compact
 banner:
   caption: ""
